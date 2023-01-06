@@ -13,7 +13,7 @@ public class addressjig{
             // gotta fina a way to change the address so make it update per user input 
             // idea one store input into an array and cycle through the array 
             // char at maybe will work
-//System.out.println("333"+randomalphabet()+" "+"south"+randomalphabet()+" "+"payson"+randomalphabet()+" "+"street"+randomalphabet());
+//System.out.println("222"+randomalphabet()+" "+"north"+randomalphabet()+" "+"patson"+randomalphabet()+" "+"blvd"+randomalphabet());
        // }
         // maybe add a way to store data into a sheet to easy export 
     }
